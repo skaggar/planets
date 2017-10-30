@@ -1,2 +1,1 @@
-Mars is the red planet which has a movie based on it
-No weather
+Mars is the red planet.
